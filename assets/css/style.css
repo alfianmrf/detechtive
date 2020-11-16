@@ -382,8 +382,8 @@
     }
 
     #riwayat{
-        padding-left: 0 !important;
-        padding-right: 0 !important;
+        padding-left: 1rem !important;
+        padding-right: 1rem !important;
     }
 
     #riwayat h2{
@@ -399,8 +399,8 @@
     }
 
     #kontak{
-        padding-left: 0 !important;
-        padding-right: 0 !important;
+        padding-left: 1rem !important;
+        padding-right: 1rem !important;
     }
 
     #kontak .row .col-md-5{
@@ -420,8 +420,8 @@
     }
 
     #info{
-        padding-left: 0 !important;
-        padding-right: 0 !important;
+        padding-left: 1rem !important;
+        padding-right: 1rem !important;
     }
 
     #info h2{

@@ -358,3 +358,96 @@
 .p-2rem{
     padding: 2rem;
 }
+
+@media (max-width: 767.98px) {
+    #home{
+        overflow: hidden;
+    }
+
+    #home svg{
+        width: 500% !important;
+    }
+
+    .header-content .col-md-4{
+        margin-top: 2rem;
+    }
+
+    #status p .badge{
+        margin-left: 0 !important;
+    }
+
+    .lokasi-container{
+        margin-left: 0 !important;
+        margin-top: 2rem;
+    }
+
+    #riwayat{
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+
+    #riwayat h2{
+        text-align: center !important;
+        margin-bottom: 2rem;
+    }
+
+    #riwayat .row .col-md-4{
+        padding-left: 4rem !important;
+        padding-right: 4rem !important;
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+
+    #kontak{
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+
+    #kontak .row .col-md-5{
+        padding-left: 4rem !important;
+        padding-right: 4rem !important;
+        text-align: center !important;
+    }
+
+    #kontak .row .col-md-5 input{
+        float: none !important;
+        margin-top: 2rem;
+    }
+
+    #kontak h2{
+        text-align: center !important;
+        margin-bottom: 2rem;
+    }
+
+    #info{
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+
+    #info h2{
+        text-align: center !important;
+    }
+
+    #tips{
+        padding-left: 2rem !important;
+        padding-right: 2rem !important;
+    }
+
+    #tips h2{
+        margin-bottom: 2rem;
+    }
+
+    #status{
+        padding-left: 2rem !important;
+        padding-right: 2rem !important;
+    }
+
+    .header-content .row{
+        padding-left: 2rem !important;
+        padding-right: 2rem !important;
+    }
+
+    .navbar{
+        background-color: #1D3658 !important;
+    }
+}
